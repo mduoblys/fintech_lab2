@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WordCounter</string>
+    <string name="text_field_label">Tekstas</string>
+    <string name="spinner_label">Skaičiavimo tipas</string>
+    <string name="button_text">Skaičiuoti</string>
+    <string name="calculation_type_words">Žodžiai</string>
+    <string name="calculation_type_symbols">Rašybos ženklai</string>
+    <string name="result_text_not_present">Neįvestas tekstas</string>
+    <string name="result_words">Suskaičiuoti žodžiai</string>
+    <string name="result_symbols">Suskaičiuoti rašybos ženklai</string>
+    <string name="result_unexpected">Nenumatyta klaida skaičiavime</string>
+</resources>
